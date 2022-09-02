@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-02T15:12:08.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="REDBJUn6GRn2AcpNJZ8e" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-02T15:21:05.021Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="rLdy53Ce621V-twNq-zm" version="20.2.8" type="github">
   <diagram id="bQn_8MbS-EU-KnfHHXnH" name="Page-1">
-    <mxGraphModel dx="803" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1071" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,7 +18,7 @@
         <mxCell id="opUhy12Lz94qFMG0uhZe-4" value="" style="shape=mxgraph.signs.transportation.bus_2;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="33" y="474" width="162" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="opUhy12Lz94qFMG0uhZe-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="opUhy12Lz94qFMG0uhZe-7" target="opUhy12Lz94qFMG0uhZe-10" edge="1">
+        <mxCell id="dfvIXqUmNmXKtJPytcft-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="opUhy12Lz94qFMG0uhZe-7" target="dfvIXqUmNmXKtJPytcft-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="opUhy12Lz94qFMG0uhZe-7" value="Pickup Mr. Ravi &amp;amp; Sebastian at 6:45" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
@@ -28,16 +28,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="opUhy12Lz94qFMG0uhZe-10" value="Drop them at Mangaf training hall" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="381" y="187" width="90" height="60" as="geometry" />
+          <mxGeometry x="499" y="187" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="opUhy12Lz94qFMG0uhZe-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="opUhy12Lz94qFMG0uhZe-12" target="opUhy12Lz94qFMG0uhZe-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="opUhy12Lz94qFMG0uhZe-12" value="Pick Mr. Ullas &amp;amp; Craven at 7:15&amp;nbsp;" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="490" y="187" width="80" height="60" as="geometry" />
+        <mxCell id="opUhy12Lz94qFMG0uhZe-12" value="Pick Mr. Ullas &amp;amp; Craven at 7:15 from Best Western Hotel" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="608" y="184" width="93" height="66" as="geometry" />
         </mxCell>
         <mxCell id="opUhy12Lz94qFMG0uhZe-14" value="Drop them at Mangaf training hall &amp;amp; stay with them" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="608" y="184" width="92" height="66" as="geometry" />
+          <mxGeometry x="726" y="184" width="92" height="66" as="geometry" />
         </mxCell>
         <mxCell id="qVOmJEq2DApiEaPTz-TL-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="qVOmJEq2DApiEaPTz-TL-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -137,6 +137,12 @@
         </mxCell>
         <mxCell id="dfvIXqUmNmXKtJPytcft-3" value="Bring food for the people &amp;amp; stay in Mangaf till training is over" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="953" y="278" width="83" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="dfvIXqUmNmXKtJPytcft-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dfvIXqUmNmXKtJPytcft-5" target="opUhy12Lz94qFMG0uhZe-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dfvIXqUmNmXKtJPytcft-5" value="CR Office for collecting documents" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="370" y="187" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
